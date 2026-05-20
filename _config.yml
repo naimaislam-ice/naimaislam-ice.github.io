@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sajeeb's Homepage"
+title                    : "Naima's Homepage"
 title_separator          : "-"
-name                     : &name "Sajee Kumar Ray"
+name                     : &name "Naima Islam"
 description              : &description "Researcher"
-url                      : https://sajeebray.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://naimaislam-ice.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sajeebray/sajeebray.github.io"
+repository               : "naimaislam-ice/naimaislam-ice.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,29 +22,29 @@ repository               : "sajeebray/sajeebray.github.io"
 author:
   # Biographic information
   avatar           : "Profile1.jpg"
-  name             : "Sajeeb Kumar Ray"
+  name             : "Naima Islam"
   pronouns         : # example: "she/her"  
-  bio              : "AI for Agriculture & Healthcare Researcher | Lecturer (CSE) @ VU | Specialist @ Codeforces | Student of the Year Awardee"
-  location         : "Rajshahi, Bangladesh"
+  bio              : "AI for Healthcare Researcher | Academic Execellence Awardee"
+  location         : "Dhaka, Bangladesh"
   employer         : "Pabna University of Science and Technology"
   uri              : # URL
-  email            : "sajeeb.ray.ice@gmail.com" 
+  email            : "naimaislam.ice@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=uSIpOFkAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=0257Z-kAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0007-9910-7551"
-  semantic         : "https://www.semanticscholar.org/author/Sajeeb-Kumar-Ray/2295204503"
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Sajeeb-Kumar-Ray"
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=59135757800"
+  orcid            : "https://orcid.org/0009-0007-2056-1525"
+  #semantic         : "https://www.semanticscholar.org/author/Sajeeb-Kumar-Ray/2295204503"
+  #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Naima-Islam-6?ev=hdr_xprf"
+  Web of Science   : "https://www.webofscience.com/wos/author/record/PTF-4856-2026"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "SajeebRay"
+  github           : "naimaislam-ice"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "sajeeb02"
+  linkedin         : "www.linkedin.com/in/naimaislam200601"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
